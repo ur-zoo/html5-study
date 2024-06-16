@@ -2,7 +2,12 @@
 # a
 # b
 # strong
+# small
 # i
 # em
 # br
 # img
+# iframe
+# lable
+# textarea
+# botton
