@@ -14,9 +14,9 @@
 - 이 태그 안에 있는 내용이 실제로 브라우저 화면에 나타나게 되며, 다양한 태그들이 들어가게 되고 이러한 태그들을 조합하여 웹 페이지의 구조와 디자인을 구성할 수 있음
 
 # html 요소
-- 텍스트 요소 (Text Semantics): 특정 텍스트 유형을 정의하는 요소입니다. 예) <em>, <strong>, <cite>, <q>, <blockquote>, <abbr>, <del>, <ins>, <sup>, <sub>
-- 입력 요소 (Form Elements): 사용자 입력을 받는 요소입니다. 예) <form>, <input>, <textarea>, <label>, <select>, <option>, <button>
-- 멀티미디어 요소 (Multimedia Elements): 오디오, 비디오 등 멀티미디어를 포함하는 요소입니다. 예) <img>, <audio>, <video>
-- 블록 요소 (Block-level Elements) : 화면 전체를 채우는 블록 형태의 요소이며, 일반적으로 새로운 줄에서 시작합니다. 예) <div>, <h1>~<h6>, <p>, <ul>, <ol>, <li>, <table>, <form>
-- 인라인 요소 (Inline Elements): 블록 요소 내에 포함될 수 있는 요소이며, 컨텐츠 크기만큼의 영역을 차지합니다. 예) <span>, <a>, <strong>, <em>, <img>, <input>, <button>
-- 그룹 요소 (Grouping Content): 컨텐츠를 묶어서 사용하는 요소입니다. 예) <div>, <span>, <section>, <article>, <nav>, <aside>, <header>, <footer>
+- 텍스트 요소 (Text Semantics): 특정 텍스트 유형을 정의하는 요소
+- 입력 요소 (Form Elements): 사용자 입력을 받는 요소
+- 멀티미디어 요소 (Multimedia Elements): 오디오, 비디오 등 멀티미디어를 포함하는 요소
+- 블록 요소 (Block-level Elements) : 화면 전체를 채우는 블록 형태의 요소이며, 일반적으로 새로운 줄에서 시작
+- 인라인 요소 (Inline Elements): 블록 요소 내에 포함될 수 있는 요소이며, 컨텐츠 크기만큼의 영역을 차지
+- 그룹 요소 (Grouping Content): 컨텐츠를 묶어서 사용하는 요소
