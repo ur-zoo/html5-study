@@ -1,23 +1,84 @@
-# div
-# p
-# hr
-# ol
-# ul
-# li
-# h1~h6
-# pre
-# blockquote
-# dl
-# dt
-# dd
-# form
-# fieldset
-# table
-# address
-# header
-# footer
-# section
-# article
-# canvas
-# video
-# audio
+## div
+- division의 약자
+- 특정 스타일이나 레이아웃을 적용하기 위해 사용되며, 특별한 의미가 없는 컨테이너 역
+
+## p
+- 일반적으로 텍스트를 단락으로 묶어 표시
+
+## hr
+
+
+## ol
+- ordered list
+- 순서가 있는 목록
+
+## ul
+- unordered list의 약자
+- 순서가 없는 목록
+
+## li
+- 각각의 목록 항목
+- ul, ol 태그를 자신의 부모 요소로 둠
+
+## h1~h6
+- 제목을 나타내는 태그
+- 해당 페이지의 주요 제목을 나타냄
+- 일반적으로는 웹 페이지에 한 번만 사용
+- 시맨틱 태그로, 웹 문서의 구조를 더욱 명확하고 의미론적으로 표현할 수 있도록 도와줌
+
+## pre
+- 서식이 있는 텍스트
+- 코드블록이나 예제 코드를 보여주기 위해 사용하기 때문에 스타일링이 적용되지 않음
+- 주로 code 태그와 코드블록 표
+
+## code
+- 일반적으로 코드 조각, 변수, 함수 이름, 파일 경로 등과 같은 인라인 코드 조각 표시 시 사용
+
+## blockquote
+
+
+## dl
+
+
+## dt
+
+
+## dd
+
+
+## form
+
+
+## fieldset
+
+
+## table
+- 표 전체를 감싸는 태그
+  - th : 테이블 셀의 헤더를 나타내며, 보통 굵은 글씨로 표시
+  - tr : 행을 나타냄
+  - td : 일반적인 테이블 셀 
+
+## address
+
+
+## header
+
+
+## footer
+
+
+## section
+
+
+## article
+
+
+## canvas
+
+
+## video
+
+
+## audio
+
+
